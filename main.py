@@ -7,7 +7,7 @@ import pandas
 today = datetime.now()
 today_tuple = (today.month, today.day)
 
-my_email = "jesseirungu3@gmail.com"
+my_email = "jesse@gmail.com"
 password = "mrjpxkwewjootmnc"
 
 data = pandas.read_csv("birthdays.csv")
